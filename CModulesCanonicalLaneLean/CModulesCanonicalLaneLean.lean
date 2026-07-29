@@ -1,0 +1,15 @@
+import CModulesCanonicalLaneLean.ModuleCategory
+import CModulesCanonicalLaneLean.BridgeLemmas
+import CModulesCanonicalLaneLean.GateLemmas
+import CModulesCanonicalLaneLean.FinalTheorem
+import CModulesCanonicalLaneLean.ProjectiveResolution
+import CModulesCanonicalLaneLean.HochschildHomology
+import CModulesCanonicalLaneLean.MoritaEquivalence
+
+namespace HautevilleHouse
+namespace CModulesCanonicalLaneLean
+
+-- Root module for the C Modules Canonical Lane Lean package.
+
+end CModulesCanonicalLaneLean
+end HautevilleHouse
